@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-**Note:** The data used in this repository is based on the repository available at [https://github.com/ghasemi-amirIE/Digital_Twin_FFS](https://github.com/ghasemi-amirIE/Digital_Twin_FFS).
+Note: The data used for training of the models in this repository is based on the repository available at https://github.com/ghasemi-amirIE/Digital_Twin_FFS.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
