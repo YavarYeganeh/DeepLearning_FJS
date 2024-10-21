@@ -8,7 +8,7 @@ This project explores the integration of **deep learning (DL)** within **Digital
 - The project resulted in a paper that was presented and is in the proceedings of the **2023 Winter Simulation Conference**: [Paper Link](https://ieeexplore.ieee.org/abstract/document/10407811).
 
 ### Key Contributions of the Deep Learning Approach:
-- **Deep Learning Meta-Models:** We developed DL architectures based on **Recurrent Neural Networks (RNNs)** and **Attention Mechanisms** to predict key production metrics, particularly **Makespan**. These models allow the Digital Twin system to operate efficiently without relying on resource-heavy simulations.
+- **Deep Learning Meta-Models:** DL architectures based on **Recurrent Neural Networks (RNNs)** and **Attention Mechanisms** are developed to predict key production metrics, particularly **Makespan**. These models allow the Digital Twin system to operate efficiently without relying on resource-heavy simulations.
   
 - **RNN + Attention Mechanism:** The combination of RNN and attention mechanisms helps the models capture sequential dependencies and complex interactions within the production system, making them suitable for dynamic and flexible manufacturing environments.
 
