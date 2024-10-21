@@ -2,7 +2,7 @@
 <h2 align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10407811">Deep Learning Enabling Digital Twin Applications in Production Scheduling: <br> Case of Flexible Job Shop Manufacturing Environment</a></h2>
 
 <p align="center">
-<img src="Data/RNN-Attention.png" alt="DeepLearning_FJS" style="width:500px">
+<img src="Data/DL-Makespan_Attention.jpgg" alt="DeepLearning_FJS" style="width:500px">
 </p>
 
 ## Citation
