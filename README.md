@@ -21,3 +21,13 @@ The source code and models are available for exploration and further development
 
 ## Citation
 Ghasemi, A., Yeganeh, Y. T., Matta, A., Kabak, K. E., & Heavey, C. (2023, December). Deep Learning Enabling Digital Twin Applications in Production Scheduling: Case of Flexible Job Shop Manufacturing Environment. In 2023 Winter Simulation Conference (WSC) (pp. 2148-2159). IEEE. https://ieeexplore.ieee.org/abstract/document/10407811
+```
+@inproceedings{ghasemi2023deep,
+  title={Deep Learning Enabling Digital Twin Applications in Production Scheduling: Case of Flexible Job Shop Manufacturing Environment},
+  author={Ghasemi, Amir and Yeganeh, Yavar Taheri and Matta, Andrea and Kabak, Kamil Erkan and Heavey, Cathal},
+  booktitle={2023 Winter Simulation Conference (WSC)},
+  pages={2148--2159},
+  year={2023},
+  organization={IEEE}
+}
+```
