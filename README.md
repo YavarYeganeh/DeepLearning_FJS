@@ -15,9 +15,7 @@ This project explores the integration of **deep learning (DL)** within **Digital
 - **Performance:** The DL models demonstrated high accuracy, achieving a **Mean Absolute Percentage Error (MAPE)** of less than 7.4% for Makespan predictions, proving the viability of DL for Digital Twin applications in production scheduling.
 
 ### Repository Contents:
-This repository contains the implementation of the **DL-based meta-models** that utilize [example **Manufacturing Execution System (MES)** data](https://github.com/ghasemi-amirIE/Digital_Twin_FFS) to facilitate **online and dynamic scheduling** within smart manufacturing systems.
-
-The source code and models are available for exploration and further development. Inquiries should be directed to **yavar.taheri@polimi.it** or **yavar.yeganeh@gmail.com**.
+This repository contains the implementation of the **DL-based meta-models** that utilize [example **Manufacturing Execution System (MES)** data](https://github.com/ghasemi-amirIE/Digital_Twin_FFS) to facilitate **online and dynamic scheduling** within smart manufacturing systems. The source code and models are available for exploration and further development. 
 
 ## Citation
 Ghasemi, A., Yeganeh, Y. T., Matta, A., Kabak, K. E., & Heavey, C. (2023, December). Deep Learning Enabling Digital Twin Applications in Production Scheduling: Case of Flexible Job Shop Manufacturing Environment. In 2023 Winter Simulation Conference (WSC) (pp. 2148-2159). IEEE. https://ieeexplore.ieee.org/abstract/document/10407811
@@ -31,3 +29,7 @@ Ghasemi, A., Yeganeh, Y. T., Matta, A., Kabak, K. E., & Heavey, C. (2023, Decemb
   organization={IEEE}
 }
 ```
+
+## Contact
+
+For inquiries or collaboration, please reach out to **yavar.taheri@polimi.it** or **yavar.yeganeh@gmail.com**.
