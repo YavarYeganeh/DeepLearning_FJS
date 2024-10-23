@@ -7,7 +7,7 @@
 This project explores the integration of **deep learning (DL)** within **Digital Twin** environments for **Flexible Job Shop (FJS) Manufacturing Systems**. The goal is to address the computational challenges of running online simulations by using machine learning, particularly DL models, to estimate production metrics efficiently and enable real-time scheduling decisions.  
 - The project is based on a **[paper](https://ieeexplore.ieee.org/abstract/document/10407811)** presented and is in the proceedings of the ***2023 Winter Simulation Conference (WSC '23)***.
 
-Key Contributions:
+#### Key Contributions:
 - **Deep Learning Meta-Models:** DL architectures based on **Recurrent Neural Networks (RNNs)** and **Attention Mechanisms** are developed to predict key production metrics, particularly **Makespan**. These models allow the Digital Twin system to operate efficiently without relying on resource-heavy simulations.
   
 - **RNN + Attention Mechanism:** The combination of RNN and attention mechanisms helps the models capture sequential dependencies and complex interactions within the production system, making them suitable for dynamic and flexible manufacturing environments.
