@@ -10,7 +10,7 @@ This project explores the integration of **deep learning (DL)** within **Digital
 #### Key Contributions:
 - **Deep Learning Meta-Models:** DL architectures based on **Recurrent Neural Networks (RNNs)** and **Attention Mechanisms** are developed to predict key production metrics, particularly **Makespan**. These models allow the Digital Twin system to operate efficiently without relying on resource-heavy simulations.
   
-- **RNN + Attention Mechanism:** The combination of RNN and attention mechanisms helps the models capture sequential dependencies and complex interactions within the production system, making them suitable for dynamic and flexible manufacturing environments.
+- **RNN + Hierarchical Cross-Attention:** The combination of RNN and a Hierarchical Cross-Attention architecture helps the models capture sequential dependencies and complex interactions within the production system, making them suitable for dynamic and flexible manufacturing environments.
 
 - **Performance:** The DL models demonstrated high accuracy, achieving a **Mean Absolute Percentage Error (MAPE)** of less than 7.4% for Makespan predictions, proving the viability of DL for Digital Twin applications in production scheduling.
 
