@@ -32,4 +32,4 @@ Ghasemi, A., Yeganeh, Y. T., Matta, A., Kabak, K. E., & Heavey, C. (2023, Decemb
 
 ## Contact
 
-For inquiries or collaboration, please reach out to **yavar.taheri@polimi.it** or **yavar.yeganeh@gmail.com**.
+For inquiries or collaboration, please reach out to **yavar.taheri@polimi.it** or **yavaryeganeh@gmail.com**.
